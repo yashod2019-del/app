@@ -3,3 +3,4 @@ openai-whisper
 googletrans==3.1.0a0
 gTTS
 streamlit-audiorecorder
+httpx==0.24.1
